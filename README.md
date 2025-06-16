@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first Git Repository
-Athor - Aarukh khan 
+Athor - Aarukh khan (chandigarh)
